@@ -1,0 +1,45 @@
+body {
+	background: #141E30;
+	background: linear-gradient(-45deg, #35577D, #141E30);
+}
+
+.siteLinks {
+	//border: 1px solid LightGrey;
+	//padding: 40px 0px;
+	//position: relative;
+	text-align: center;
+	//width: 100%;
+}
+
+.siteLinks a {
+	background: #003471;
+	border: 1px solid #003471;
+	border-radius: 3px;
+	margin: 10px;
+	color: white;
+	display: inline-block;
+	padding: 14px;
+	text-decoration: none;
+}
+
+.siteLinks a:hover {
+background: #5e75cd;
+border: 1px solid #003471;
+color: #003471;
+}
+
+.siteLinks a:visited {
+	text-decoration: none;
+}
+
+.Us {
+	font-size: 32px;
+	text-align: center;
+}
+
+p {
+	font-size: 1.5em;
+	text-align: center;
+	padding-top: 5px;
+	width: 100%;
+}
